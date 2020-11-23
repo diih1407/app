@@ -1,5 +1,7 @@
 {
   "name": "AppTCC",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
